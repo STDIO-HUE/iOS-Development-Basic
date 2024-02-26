@@ -1,5 +1,5 @@
 # iOS Development Basic for Interns
-Welcome to the iOS Development Basic Training Repository! This resource is designed to guide interns through the foundational elements of iOS app development using Swift.
+Welcome to the iOS Development Basic Training Repository! This resource to guide interns through the foundational elements of iOS app development using Swift.
 
 ## What You Will Learn:
 ### Git
